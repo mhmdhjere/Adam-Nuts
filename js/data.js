@@ -435,6 +435,9 @@
     { id: "gum-19", cat: "gummy", available: true, unit: "kg", price: 45, img: im("gummy","gummy-19.jpeg"),
       name: { ar: "جيلي كولا", he: "גומי קולה" },
       desc: { ar: "جيلي كولا بطعم كلاسيكي.", he: "גומי קולה בטעם קלאסי." } },
+    { id: "hojere-1", cat: "nuts", available: true, unit: "kg", price: 0, img: im("coffee",""),
+      name: { ar: "قهوة فنانة", he: "קפה חבל" },
+      desc: { ar: "قهوة اشي فنتاستيك زي البلاستيك", he: "קפה עלא קיפק" } },
   ];
 
   // Delivery rules — fee in shekels keyed by normalized city/village.
