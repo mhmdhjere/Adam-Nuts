@@ -48,7 +48,7 @@
   };
   const CATEGORIES = [
     { id: "coffee",        name: { ar: "قهوة آدم", he: "קפה אדם" }, img: "assets/images/coffee/coffee-1.jpeg" },
-    { id: "nuts",          name: { ar: "مكسرات", he: "פיצוחים" }, img: "assets/images/nuts/nuts-13.jpeg" },
+    { id: "nuts",          name: { ar: "مجندلات", he: "פיצוחים" }, img: "assets/images/nuts/nuts-13.jpeg" },
     { id: "natural-nuts",  name: { ar: "مكسرات طبيعية", he: "פיצוחים טבעיים" }, img: "assets/images/natural-nuts/natural-nuts-5.jpeg" },
     { id: "dried", name: { ar: "مجففات", he: "פירות יבשים" }, img: "assets/images/dried/dried-2.jpeg",
       subs: [SUB.dates, SUB.soft, SUB.stuffed] },
