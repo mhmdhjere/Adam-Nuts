@@ -59,7 +59,6 @@
     { id: "sweets",        name: { ar: "حلويات", he: "מתוקים" }, img: "assets/images/sweets/sweets-2.jpeg" },
     { id: "snacks",        name: { ar: "حلويات خفيفة", he: "חטיפים" }, img: "assets/images/snacks/snacks-4.jpeg" },
     { id: "gummy",         name: { ar: "حلوى جيلي", he: "סוכריות גומי" }, img: "assets/images/gummy/gummy-19.jpeg" },
-    { id: "kinder",        name: { ar: "كنادر", he: "קנאדר" }, img: "assets/images/kinders.jpg" },
   ];
 
   const im = (cat, file) => `assets/images/${cat}/${file}`;
