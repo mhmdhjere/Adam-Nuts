@@ -441,6 +441,9 @@
     { id: "nuts-19", cat: "nuts", available: true, unit: "kg", price: 0, img: im("nuts",""),
       name: { ar: "سلام", he: "سلام" },
       desc: { ar: "سلام", he: "سلام" } },
+    { id: "cof-3", cat: "coffee", available: true, unit: "piece", price: 0, img: im("coffee","cof-3.jpeg"),
+      name: { ar: "dwq", he: "dq" },
+      desc: { ar: "dqw", he: "dwq" } },
   ];
 
   // Delivery rules — fee in shekels keyed by normalized city/village.
